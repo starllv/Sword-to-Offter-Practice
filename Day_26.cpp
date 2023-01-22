@@ -108,7 +108,7 @@ public:
  * 题目链接：https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/
  * 
  * 思路：扫描字符串，若是‘ ’，往后循环，若是出数字外的其他字符，则无法进行转换，返回0
- * 参考：https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/solution/mian-shi-ti-29-shun-shi-zhen-da-yin-ju-zhen-she-di/
+ * 参考：https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/solution/mian-shi-ti-67-ba-zi-fu-chuan-zhuan-huan-cheng-z-4/
  **/
 class Solution {
 public:
